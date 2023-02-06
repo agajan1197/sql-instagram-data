@@ -1,4 +1,4 @@
-# Sql-Instagram-Data 
+# SQL-Instagram-Data 
 ## Self created instagram data in Mysql Database
 ### I have created an instagram data and did an analysis of users on instagram such as user with the most likes, users with no posts
 ### Additionally you can scroll down to have a look at some of the screenshots of the queries I have done
